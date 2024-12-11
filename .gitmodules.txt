@@ -1,0 +1,3 @@
+[submodule "Make-Up-Store"]
+    path = Make-Up-Store
+    url = https://github.com/LeratoMalebyoe/Make-Up-Store.git
